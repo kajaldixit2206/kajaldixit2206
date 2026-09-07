@@ -1,5 +1,5 @@
 # 💫 About Me:
-KAJAL DIXIT github.com/kajaldixit2206<br>PROFESSIONAL SUMMARY<br>Full Stack Developer and AI/ML Engineer with hands-on experience building software applications, AI-driven solutions, and real-time intelligent systems.<br>Experienced in Python, React, Flask, Machine Learning, and REST API development, with a strong focus on practical software engineering. Completed a 6-month<br>AI/ML internship at NIELIT, developing blockchain-based applications and Edge AI solutions from concept to implementation. Strong foundation in DSA, OOP,<br>DBMS, and problem solving, with the ability to build reliable, scalable, and technology-driven solutions.<br>
+KAJAL DIXIT<br>PROFESSIONAL SUMMARY<br>Full Stack Developer and AI/ML Engineer with hands-on experience building software applications, AI-driven solutions, and real-time intelligent systems.<br>Experienced in Python, React, Flask, Machine Learning, and REST API development, with a strong focus on practical software engineering. Completed a 6-month<br>AI/ML internship at NIELIT, developing blockchain-based applications and Edge AI solutions from concept to implementation. Strong foundation in DSA, OOP,<br>DBMS, and problem solving, with the ability to build reliable, scalable, and technology-driven solutions.<br>
 
 
 ## 🌐 Socials:
